@@ -5,3 +5,4 @@ mainEl.innerHTML = '<h1>SEI Rocks!</h1>';
 mainEl.classList.add("flex-ctr");
 var topMenuEl = document.getElementById("top-menu");
 topMenuEl.style.height = '100%'
+topMenuEl.style.backgroundColor = '--top-menu-bg';
